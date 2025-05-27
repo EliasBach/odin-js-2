@@ -1,14 +1,13 @@
-# The Odin Project Javascript Course
-## Exercise Overview
-1. Library
-1. Tic-Tac-Toe
-1. Restaurant Page
-1. To-Do List
-1. Weather App
-1. Recursion
-1. Linked Lists
-1. HashMap
-1. Binary Search Trees
-1. Knight Travails
-1. Testing Practice
-1. Battleship
+# The Odin Project Javascript Course: Exercise 2
+## Tic-Tac-Toe
+Description:
+This exercise asks to build a Tic-Tac-Toe game, while using as little global code as possible.
+Concepts Tested:
+* Scope, Closures
+* Encapsulation principles
+* Immediately-Invoked Function Expression (IIFE)
+
+Possible Improvements for the future: 
+* Highlighting winning 3-in-a-row
+* Custom sizing and markers
+* Win animation
