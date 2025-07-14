@@ -1,4 +1,4 @@
-# The Odin Project Javascript Course: Exercise 2
+# The Odin Project: Javascript Course Exercise 2
 ## Tic-Tac-Toe
 Description:
 This exercise asks to build a Tic-Tac-Toe game, while using as little global code as possible.
